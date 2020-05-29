@@ -1,0 +1,4 @@
+export const SECTIONS = {
+  GALLERY: 'GALLERY',
+  SERVICE_FORM: 'SERVICE_FORM',
+};
